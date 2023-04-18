@@ -1,0 +1,19 @@
+#flex-container{
+    display: flex;
+    border: solid 1px black;
+    background-color: rgb(214, 233, 250);
+    justify-content: space-around;
+    /* align-items property value is set to stretch by default. */
+}
+
+.flex-item{
+    margin:10px;
+}
+
+img{
+    width: 400px;
+}
+
+h2{
+    margin-top:80px;
+}
